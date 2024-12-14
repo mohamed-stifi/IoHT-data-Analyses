@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import re
 
 def extract_source_destination_port(text):
     match = re.search(r'(\d+)\s*>\s*(\d+)', text)
