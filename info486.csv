@@ -1,0 +1,487 @@
+updated_info,count
+"Echo (ping) request  id=, /59262,  (no response found!)",77715
+[SYN],8577
+"[RST, ACK]",6429
+[ACK],5398
+Application Data,4029
+[ACK]       [TCP segment of a reassembled PDU],1131
+,1021
+Application Data [TCP segment of a reassembled PDU],748
+192.168.43.1 is at 00:c0:ca:97:cf:63 (duplicate use of 192.168.43.1 detected!),727
+Standard query  A api.libelium.com,388
+"[PSH, ACK]       [TCP segment of a reassembled PDU]",334
+[TCP Retransmission]  [SYN],330
+"[FIN, ACK]",296
+"[TCP Retransmission]  [PSH, ACK]",292
+"Application Data, Application Data",249
+[]  [ACK],204
+"[SYN, ACK]",192
+Redirect             (Redirect for host),178
+192.168.43.1 is at 00:c0:ca:97:cf:63,171
+192.168.43.200 is at 00:c0:ca:97:cf:63,171
+Standard query response  A api.libelium.com A 52.208.217.22,152
+Client Hello,151
+192.168.43.1 is at 6e:c7:ec:3c:f2:ba,141
+Encrypted Alert,139
+"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message",135
+Server Hello,135
+"Certificate, Server Key Exchange, Server Hello Done",107
+"New Session Ticket, Change Cipher Spec, Encrypted Handshake Message",107
+192.168.43.200 is at a0:20:a6:22:2d:c9,99
+[RST],96
+[TCP Keep-Alive]  [ACK],85
+[TCP Keep-Alive ACK]  [ACK],85
+Response,63
+Request,63
+"Application Data, Application Data, Application Data",35
+Encrypted Handshake Message,31
+192.168.43.186 is at 00:c0:ca:97:cf:63,30
+Change Cipher Spec,28
+Client Key Exchange,27
+"New Session Ticket, Change Cipher Spec, Encrypted Handshake Message, Application Data",23
+"Change Cipher Spec, Encrypted Handshake Message",18
+Standard query response  AAAA fonts.gstatic.com CNAME gstaticadssl.l.google.com AAAA 2404:6800:4006:806::2003,16
+Standard query  A fonts.gstatic.com,16
+Standard query response  A fonts.gstatic.com CNAME gstaticadssl.l.google.com A 172.217.167.99,16
+Standard query  AAAA fonts.gstatic.com,16
+Standard query response  A ssl.gstatic.com A 142.250.66.227,15
+Standard query  AAAA www.google.com,15
+Standard query  A www.google.com,15
+Standard query response  A www.google.com A 142.250.66.196,15
+Standard query  AAAA ssl.gstatic.com,15
+Standard query response  AAAA ssl.gstatic.com AAAA 2404:6800:4006:810::2003,15
+Standard query  A ssl.gstatic.com,15
+Standard query response  AAAA www.google.com AAAA 2404:6800:4006:811::2004,14
+"Server Hello, Change Cipher Spec, Encrypted Handshake Message",13
+"[TCP Retransmission]  [FIN, ACK]",11
+"Certificate, Certificate Status, Server Key Exchange, Server Hello Done",9
+"Server Key Exchange, Server Hello Done",9
+Certificate [TCP segment of a reassembled PDU],9
+Standard query  A accounts.google.com,8
+Standard query  AAAA accounts.google.com,8
+DHCP Request  - Transaction ID,8
+Standard query response  A accounts.google.com A 172.217.25.141,8
+Standard query  A play.google.com,7
+Standard query  AAAA play.google.com,7
+Standard query response  AAAA play.google.com AAAA 2404:6800:4006:809::200e,7
+Standard query response  A play.google.com A 216.58.203.110,7
+Standard query response  AAAA accounts.google.com AAAA 2404:6800:4006:803::200d,7
+Standard query  A tiles.services.mozilla.com,6
+Standard query  AAAA tiles.services.mozilla.com,6
+GET /success.txt HTTP/1.1 ,6
+HTTP/1.1 200 OK  (text/plain),6
+Server Hello Done,6
+"Certificate, Server Key Exchange",6
+Standard query  AAAA detectportal.firefox.com,6
+[TCP Window Update]  [ACK],6
+Standard query  A detectportal.firefox.com,6
+"Application Data, Application Data, Application Data, Application Data",5
+"Application Data, Encrypted Alert",5
+DHCP ACK      - Transaction ID,5
+"Certificate Status, Server Key Exchange, Server Hello Done",4
+"Certificate, Certificate Status",4
+"[TCP Retransmission]  [FIN, PSH, ACK]",4
+Destination unreachable (Port unreachable),4
+Standard query  A www.gstatic.com,4
+Standard query  AAAA www.gstatic.com,4
+Standard query response  A www.gstatic.com A 142.250.67.3,4
+Standard query response  No such name AAAA tiles.services.mozilla.com,4
+Standard query response  No such name A tiles.services.mozilla.com,4
+Standard query response  AAAA accounts.youtube.com CNAME www3.l.google.com AAAA 2404:6800:4006:80b::200e,3
+"[TCP Retransmission]  [FIN, SYN, PSH, URG]",3
+Standard query response  A detectportal.firefox.com CNAME detectportal.prod.mozaws.net CNAME detectportal.firefox.com-v2.edgesuite.net CNAME a1089.dscd.akamai.net A 23.40.101.8 A 23.40.101.80,3
+Standard query response  A accounts.youtube.com CNAME www3.l.google.com A 172.217.167.110,3
+Standard query response  AAAA detectportal.firefox.com CNAME detectportal.prod.mozaws.net CNAME detectportal.firefox.com-v2.edgesuite.net CNAME a1089.dscd.akamai.net AAAA 2600:1415:8800::1728:6550 AAAA 2600:1415:8800::1728:6508,3
+Standard query  AAAA ocsp.pki.goog,3
+Standard query response  A ocsp.pki.goog CNAME pki-goog.l.google.com A 142.250.67.3,3
+Standard query response  AAAA ocsp.pki.goog CNAME pki-goog.l.google.com AAAA 2404:6800:4006:811::2003,3
+Standard query response  AAAA www.gstatic.com AAAA 2404:6800:4006:811::2003,3
+Standard query  A ocsp.pki.goog,3
+Standard query  AAAA accounts.youtube.com,3
+Gratuitous ARP for 192.168.43.186 (Request),3
+[]  [<None>],3
+Standard query  A accounts.youtube.com,3
+Standard query response  AAAA detectportal.firefox.com CNAME detectportal.prod.mozaws.net CNAME detectportal.firefox.com-v2.edgesuite.net CNAME a1089.dscd.akamai.net AAAA 2600:1415:8800::1728:6508 AAAA 2600:1415:8800::1728:6550,3
+Standard query response  A detectportal.firefox.com CNAME detectportal.prod.mozaws.net CNAME detectportal.firefox.com-v2.edgesuite.net CNAME a1089.dscd.akamai.net A 23.40.101.80 A 23.40.101.8,3
+Standard query  A ib.adnxs.com,2
+"[TCP ACKed unseen segment]  [RST, ACK]",2
+Standard query  PTR 1.43.168.192.in-addr.arpa,2
+Standard query response  AAAA ib.adnxs.com CNAME g.geogslb.com CNAME ib.sin1.geoadnxs.com,2
+Standard query  AAAA ib.adnxs.com,2
+Standard query  A ads.servenobid.com,2
+Standard query  AAAA ads.servenobid.com,2
+"[TCP Retransmission]  [FIN, PSH, URG]",2
+"[FIN, PSH, URG]",2
+"[TCP Out-Of-Order]  [FIN, ACK]",2
+Standard query  AAAA mail.google.com,2
+Standard query response  A mail.google.com CNAME googlemail.l.google.com A 216.58.196.133,2
+Standard query response  AAAA mail.google.com CNAME googlemail.l.google.com AAAA 2404:6800:4006:805::2005,2
+Standard query  AAAA adservice.google.com,2
+Standard query response  A adservice.google.com CNAME pagead46.l.doubleclick.net A 172.217.167.66,2
+Standard query response  TXT version.bind TXT,2
+Standard query  TXT version.bind,2
+Standard query  A mail.google.com,2
+Standard query  AAAA safebrowsing.google.com,2
+Standard query response  A www.mozilla.org CNAME www.mozilla.org.cdn.cloudflare.net A 104.16.143.228 A 104.16.142.228,2
+Standard query  A safebrowsing.google.com,2
+Standard query response  No such name A tiles.services.mozilla.com SOA ns-679.awsdns-20.net,2
+Standard query response  No such name AAAA tiles.services.mozilla.com SOA ns-679.awsdns-20.net,2
+Standard query  AAAA www.mozilla.org,2
+Standard query  A www.mozilla.org,2
+Standard query response  A apis.google.com CNAME plus.l.google.com A 142.250.66.206,2
+Standard query response  AAAA apis.google.com CNAME plus.l.google.com AAAA 2404:6800:4006:810::200e,2
+Standard query  A adservice.google.com,2
+Standard query  A self-repair.mozilla.org,2
+Standard query  A ocsp.digicert.com,2
+Standard query  AAAA self-repair.mozilla.org,2
+Standard query  AAAA ocsp.digicert.com,2
+Standard query response  A ocsp.digicert.com CNAME cs9.wac.phicdn.net A 117.18.237.29,2
+Standard query  AAAA apis.google.com,2
+Standard query  A apis.google.com,2
+Standard query  AAAA www.facebook.com,2
+Standard query  A www.facebook.com,2
+Standard query response  AAAA www.facebook.com CNAME star-mini.c10r.facebook.com AAAA 2a03:2880:f119:8083:face:b00c:0:25de,2
+Standard query response  A www.facebook.com CNAME star-mini.c10r.facebook.com A 157.240.8.35,2
+Standard query response  PTR 200.43.168.192.in-addr.arpa PTR ESP_222DC9,2
+Standard query  PTR 200.43.168.192.in-addr.arpa,2
+Standard query response  No such name PTR 1.43.168.192.in-addr.arpa SOA localhost,1
+"[TCP Retransmission]  [SYN, ACK]",1
+"U, func=Unknown; DSAP ISO Network Layer (OSLAN 1) Individual, SSAP  Response",1
+"Echo (ping) request  id=, /9985,  (reply in 8343)",1
+"Echo (ping) reply    id=, /9985,  (request in 8342)",1
+Standard query response  AAAA encrypted-tbn3.gstatic.com AAAA 2404:6800:4006:804::200e,1
+Standard query response  A encrypted-tbn3.gstatic.com A 142.250.66.174,1
+Standard query response  AAAA encrypted-tbn1.gstatic.com AAAA 2404:6800:4006:806::200e,1
+Standard query response  A encrypted-tbn1.gstatic.com A 216.58.200.110,1
+Standard query response  AAAA encrypted-tbn2.gstatic.com AAAA 2404:6800:4006:811::200e,1
+Standard query response  A encrypted-tbn2.gstatic.com A 142.250.67.14,1
+Standard query  AAAA encrypted-tbn3.gstatic.com,1
+Standard query  A encrypted-tbn3.gstatic.com,1
+Standard query  AAAA encrypted-tbn1.gstatic.com,1
+Standard query  A encrypted-tbn1.gstatic.com,1
+Standard query response  AAAA status.geotrust.com CNAME ocsp.digicert.com CNAME cs9.wac.phicdn.net SOA ns1.edgecastcdn.net,1
+Standard query response  A status.geotrust.com CNAME ocsp.digicert.com CNAME cs9.wac.phicdn.net A 117.18.237.29,1
+Standard query  AAAA encrypted-tbn2.gstatic.com,1
+Standard query  A encrypted-tbn2.gstatic.com,1
+Standard query response  AAAA static.adsafeprotected.com CNAME d162h6x3rxav67.cloudfront.net AAAA 2600:9000:20c5:3a00:8:48e:53c0:93a1 AAAA 2600:9000:20c5:8000:8:48e:53c0:93a1 AAAA 2600:9000:20c5:cc00:8:48e:53c0:93a1 AAAA 2600:9000:20c5:a200:8:48e:53c0:93a1 AAAA 2600:9000:20c5:5800:8:48e:53c0:93a1 AAAA 2600:9000:20c5:5400:8:48e:53c0:93a1 AAAA 2600:9000:20c5:b400:8:48e:53c0:93a1 AAAA 2600:9000:20c5:a400:8:48e:53c0:93a1,1
+Standard query response  A static.adsafeprotected.com CNAME d162h6x3rxav67.cloudfront.net A 13.35.101.5 A 13.35.101.94 A 13.35.101.7 A 13.35.101.114,1
+Standard query response  AAAA www.offensive-security.com SOA ns1.gandi.net,1
+Standard query response  AAAA www.exploit-db.com SOA ns1.gandi.net,1
+Standard query response  A www.exploit-db.com A 192.124.249.8,1
+Standard query response  A www.offensive-security.com A 192.124.249.5,1
+Standard query  AAAA www.backtrack-linux.org,1
+Standard query  A www.backtrack-linux.org,1
+Standard query response  AAAA home.pearsonvue.com CNAME pearsonproductionsite.azurewebsites.net CNAME waws-prod-blu-023.sip.azurewebsites.windows.net SOA prd1.azuredns-cloud.net,1
+Standard query response  A home.pearsonvue.com CNAME pearsonproductionsite.azurewebsites.net CNAME waws-prod-blu-023.sip.azurewebsites.windows.net A 137.117.66.167,1
+Standard query  AAAA home.pearsonvue.com,1
+Standard query  A home.pearsonvue.com,1
+Standard query response  AAAA bugs.kali.org SOA ns1.gandi.net,1
+Standard query response  A bugs.kali.org A 192.124.249.169,1
+Standard query  AAAA www.exploit-db.com,1
+Standard query  A www.exploit-db.com,1
+Standard query  AAAA www.offensive-security.com,1
+Standard query  A www.offensive-security.com,1
+Standard query  AAAA forums.kali.org,1
+Standard query  A forums.kali.org,1
+Standard query response  A www.kali.org A 192.124.249.10,1
+Standard query response  AAAA www.kali.org SOA ns1.gandi.net,1
+Standard query  AAAA tools.kali.org,1
+Standard query  A tools.kali.org,1
+Standard query  AAAA kali.training,1
+Standard query response  A www.backtrack-linux.org A 192.124.249.8,1
+Standard query response  AAAA www.linkedin.com CNAME 2-01-2c3e-005a.cdx.cedexis.net CNAME www-linkedin-com.l-0005.l-msedge.net CNAME l-0005.l-msedge.net AAAA 2620:1ec:21::14,1
+Standard query response  A www.linkedin.com CNAME 2-01-2c3e-005a.cdx.cedexis.net CNAME www-linkedin-com.l-0005.l-msedge.net CNAME l-0005.l-msedge.net A 13.107.42.14,1
+Standard query  AAAA www.linkedin.com,1
+Standard query  A www.linkedin.com,1
+Standard query response  AAAA twitter.com SOA ns1.p26.dynect.net,1
+Standard query response  A twitter.com A 104.244.42.193 A 104.244.42.65,1
+Standard query  AAAA twitter.com,1
+Standard query  A twitter.com,1
+Standard query  A www.kali.org,1
+Standard query response  AAAA ocsp.digicert.com CNAME cs9.wac.phicdn.net SOA ns1.edgecastcdn.net,1
+Standard query response  AAAA self-repair.mozilla.org CNAME self-repair.r53-2.services.mozilla.com CNAME d39fl7ga3npck8.cloudfront.net AAAA 2600:9000:2084:5800:13:9d43:b600:93a1 AAAA 2600:9000:2084:6200:13:9d43:b600:93a1 AAAA 2600:9000:2084:1400:13:9d43:b600:93a1 AAAA 2600:9000:2084:8400:13:9d43:b600:93a1 AAAA 2600:9000:2084:ec00:13:9d43:b600:93a1 AAAA 2600:9000:2084:9200:13:9d43:b600:93a1 AAAA 2600:9000:2084:9000:13:9d43:b600:93a1 AAAA 2600:9000:2084:bc00:13:9d43:b600:93a1,1
+Standard query response  A self-repair.mozilla.org CNAME self-repair.r53-2.services.mozilla.com CNAME d39fl7ga3npck8.cloudfront.net A 13.32.73.124 A 13.32.73.21 A 13.32.73.22 A 13.32.73.119,1
+Standard query response  AAAA shavar.services.mozilla.com CNAME shavar.services.mozilla.com.edgesuite.net CNAME a1895.dscd.akamai.net AAAA 2600:1415:8800::1728:6549 AAAA 2600:1415:8800::1728:654b,1
+Standard query response  A shavar.services.mozilla.com CNAME shavar.services.mozilla.com.edgesuite.net CNAME a1895.dscd.akamai.net A 23.40.101.73 A 23.40.101.75,1
+Standard query  AAAA shavar.services.mozilla.com,1
+Standard query  A shavar.services.mozilla.com,1
+Standard query response  AAAA www.backtrack-linux.org SOA ns1.gandi.net,1
+Standard query response  AAAA forums.kali.org SOA ns1.gandi.net,1
+Standard query response  A forums.kali.org A 192.124.249.12,1
+Standard query response  A kali.training A 192.124.249.3,1
+Standard query  AAAA bugs.kali.org,1
+Standard query  A bugs.kali.org,1
+Standard query response  AAAA tools.kali.org SOA ns1.gandi.net,1
+Standard query response  A tools.kali.org A 192.124.249.6,1
+Standard query  TXT id.server OPT,1
+"Echo (ping) reply    id=, /9985,  (request in 12638)",1
+Standard query response  AAAA ogs.google.com CNAME www3.l.google.com AAAA 2404:6800:4006:80b::200e,1
+Standard query response  A ogs.google.com CNAME www3.l.google.com A 172.217.167.110,1
+Standard query response  AAAA adservice.google.com CNAME pagead46.l.doubleclick.net AAAA 2404:6800:4006:804::2002,1
+Standard query  AAAA ogs.google.com,1
+Standard query  A ogs.google.com,1
+Standard query response  AAAA snippets.cdn.mozilla.net CNAME d228z91au11ukj.cloudfront.net SOA ns-889.awsdns-47.net,1
+Standard query response  A snippets.cdn.mozilla.net CNAME d228z91au11ukj.cloudfront.net A 13.32.73.101 A 13.32.73.39 A 13.32.73.78 A 13.32.73.113,1
+Standard query  AAAA snippets.cdn.mozilla.net,1
+Standard query  A snippets.cdn.mozilla.net,1
+Standard query response  AAAA safebrowsing.google.com CNAME sb.l.google.com AAAA 2404:6800:4006:806::200e,1
+Standard query response  A safebrowsing.google.com CNAME sb.l.google.com A 172.217.167.78,1
+Standard query response  AAAA www.mozilla.org CNAME www.mozilla.org.cdn.cloudflare.net AAAA 2606:4700::6810:8fe4 AAAA 2606:4700::6810:8ee4,1
+Standard query  A kali.training,1
+Standard query  AAAA www.kali.org,1
+Standard query  AAAA aus5.mozilla.org,1
+Standard query  A aus5.mozilla.org,1
+Standard query response  AAAA status.thawte.com CNAME ocsp.digicert.com CNAME cs9.wac.phicdn.net SOA ns1.edgecastcdn.net,1
+Standard query response  A status.thawte.com CNAME ocsp.digicert.com CNAME cs9.wac.phicdn.net A 117.18.237.29,1
+Standard query  AAAA status.thawte.com,1
+Standard query  A status.thawte.com,1
+HTTP/1.1 302 Found  (text/html),1
+GET / HTTP/1.1 ,1
+Standard query response  AAAA mail-attachment.googleusercontent.com CNAME googlehosted.l.googleusercontent.com AAAA 2404:6800:4006:805::2001,1
+Standard query response  A mail-attachment.googleusercontent.com CNAME googlehosted.l.googleusercontent.com A 216.58.196.129,1
+Standard query  AAAA mail-attachment.googleusercontent.com,1
+Standard query  A mail-attachment.googleusercontent.com,1
+"Echo (ping) reply    id=, /59262,",1
+"Echo (ping) reply    id=, /59262,  (request in 12932)",1
+"Echo (ping) request  id=, /59262,  (reply in 12935)",1
+Standard query response  Refused TXT id.server OPT,1
+Standard query  AAAA support.mozilla.org,1
+"Echo (ping) request  id=, /9985,  (reply in 12640)",1
+"[SYN, ACK, ECN]",1
+"Echo (ping) reply    id=, /10241,  (request in 12621)",1
+"Echo (ping) reply    id=, /9985,  (request in 12620)",1
+"[FIN, SYN, PSH, URG]",1
+[<None>],1
+"[SYN, ECN, CWR, Reserved]",1
+"Echo (ping) request  id=, /10241,  (reply in 12630)",1
+"Echo (ping) request  id=, /9985,  (reply in 12629)",1
+Standard query response  No such name PTR 1.43.168.192.in-addr.arpa,1
+"Echo (ping) reply    id=, /9985,  (request in 8378)",1
+"Echo (ping) request  id=, /9985,  (reply in 8379)",1
+Standard query  A support.mozilla.org,1
+Standard query response  A aus5.mozilla.org CNAME balrog-aus5.r53-2.services.mozilla.com CNAME balrog-cloudfront.prod.mozaws.net A 13.32.73.6 A 13.32.73.99 A 13.32.73.94 A 13.32.73.3,1
+Standard query response  AAAA aus5.mozilla.org CNAME balrog-aus5.r53-2.services.mozilla.com CNAME balrog-cloudfront.prod.mozaws.net AAAA 2600:9000:2084:2600:a:db2a:b380:93a1 AAAA 2600:9000:2084:3400:a:db2a:b380:93a1 AAAA 2600:9000:2084:4000:a:db2a:b380:93a1 AAAA 2600:9000:2084:3800:a:db2a:b380:93a1 AAAA 2600:9000:2084:6c00:a:db2a:b380:93a1 AAAA 2600:9000:2084:3600:a:db2a:b380:93a1 AAAA 2600:9000:2084:a600:a:db2a:b380:93a1 AAAA 2600:9000:2084:b200:a:db2a:b380:93a1,1
+Standard query response  AAAA ocsp.digicert.com CNAME cs9.wac.phicdn.net,1
+Standard query response  AAAA safebrowsing.google.com CNAME sb.l.google.com AAAA 2404:6800:4006:80a::200e,1
+Standard query response  A safebrowsing.google.com CNAME sb.l.google.com A 216.58.199.78,1
+Standard query response  AAAA location.services.mozilla.com CNAME locprod1-elb-eu-west-1.prod.mozaws.net SOA ns-1260.awsdns-29.org,1
+Standard query response  A location.services.mozilla.com CNAME locprod1-elb-eu-west-1.prod.mozaws.net A 34.253.97.22 A 52.209.204.108 A 34.247.232.119,1
+Standard query  AAAA location.services.mozilla.com,1
+Standard query  A location.services.mozilla.com,1
+Standard query response  AAAA www.mozilla.org CNAME www.mozilla.org.cdn.cloudflare.net AAAA 2606:4700::6810:8ee4 AAAA 2606:4700::6810:8fe4,1
+[]  [ACK]       SLE=5541 SRE=5542,1
+Standard query response  AAAA fonts.googleapis.com AAAA 2404:6800:4006:80e::200a,1
+Standard query response  A fonts.googleapis.com A 172.217.167.74,1
+Standard query  AAAA fonts.googleapis.com,1
+Standard query  A fonts.googleapis.com,1
+"Application Data, Application Data, Application Data, Application Data, Application Data",1
+Standard query response  A support.mozilla.org CNAME prod-tp.sumo.mozit.cloud A 34.211.9.45 A 35.160.176.220,1
+Standard query response  AAAA support.mozilla.org CNAME prod-tp.sumo.mozit.cloud SOA ns-1513.awsdns-61.org,1
+Standard query response  A www.123telugu.com CNAME 123telugu-alb-live-new-211307917.us-east-1.elb.amazonaws.com A 34.196.191.3 A 54.196.9.233 A 100.25.79.143 A 3.217.97.91,1
+Standard query  AAAA www.123telugu.com,1
+Standard query  A www.123telugu.com,1
+Standard query response  AAAA encrypted-tbn0.gstatic.com AAAA 2404:6800:4006:80f::200e,1
+Standard query response  A encrypted-tbn0.gstatic.com A 142.250.66.206,1
+Standard query  AAAA encrypted-tbn0.gstatic.com,1
+Standard query  A encrypted-tbn0.gstatic.com,1
+"Application Data, Application Data, Application Data, Application Data, Application Data, Application Data",1
+Standard query response  AAAA www.gstatic.com AAAA 2404:6800:4006:80b::2003,1
+Standard query response  AAAA lh3.googleusercontent.com CNAME googlehosted.l.googleusercontent.com AAAA 2404:6800:4006:805::2001,1
+Standard query response  A lh3.googleusercontent.com CNAME googlehosted.l.googleusercontent.com A 216.58.196.129,1
+Standard query  AAAA lh3.googleusercontent.com,1
+Standard query  A lh3.googleusercontent.com,1
+Standard query response  AAAA www.google.com AAAA 2404:6800:4006:80f::2004,1
+Standard query response  A self-repair.mozilla.org CNAME self-repair.r53-2.services.mozilla.com CNAME d39fl7ga3npck8.cloudfront.net A 13.32.73.119 A 13.32.73.21 A 13.32.73.22 A 13.32.73.124,1
+Standard query response  AAAA self-repair.mozilla.org CNAME self-repair.r53-2.services.mozilla.com CNAME d39fl7ga3npck8.cloudfront.net AAAA 2600:9000:2084:7a00:13:9d43:b600:93a1 AAAA 2600:9000:2084:1000:13:9d43:b600:93a1 AAAA 2600:9000:2084:b000:13:9d43:b600:93a1 AAAA 2600:9000:2084:a00:13:9d43:b600:93a1 AAAA 2600:9000:2084:8600:13:9d43:b600:93a1 AAAA 2600:9000:2084:a200:13:9d43:b600:93a1 AAAA 2600:9000:2084:c600:13:9d43:b600:93a1 AAAA 2600:9000:2084:1a00:13:9d43:b600:93a1,1
+Standard query response  A www.googletagservices.com CNAME pagead46.l.doubleclick.net A 172.217.167.66,1
+Standard query  AAAA gallery.123telugu.com,1
+Standard query  A gallery.123telugu.com,1
+Standard query  AAAA www.googletagservices.com,1
+Standard query  A www.googletagservices.com,1
+Standard query response  AAAA pagead2.googlesyndication.com CNAME pagead46.l.doubleclick.net AAAA 2404:6800:4006:80b::2002,1
+Standard query response  A pagead2.googlesyndication.com CNAME pagead46.l.doubleclick.net A 172.217.167.66,1
+Standard query  AAAA cdn.123telugu.com,1
+Standard query  A cdn.123telugu.com,1
+Standard query  AAAA pagead2.googlesyndication.com,1
+Standard query  A pagead2.googlesyndication.com,1
+Standard query response  AAAA ocsp.sca1b.amazontrust.com SOA ns-612.awsdns-12.net,1
+Standard query response  A ocsp.sca1b.amazontrust.com A 13.32.126.190 A 13.32.126.81 A 13.32.126.84 A 13.32.126.76,1
+Standard query  AAAA ocsp.sca1b.amazontrust.com,1
+Standard query  A ocsp.sca1b.amazontrust.com,1
+Standard query response  AAAA www.123telugu.com CNAME 123telugu-alb-live-new-211307917.us-east-1.elb.amazonaws.com SOA ns-1119.awsdns-11.org,1
+Standard query response  A www.statcounter.com A 104.22.52.65 A 104.22.53.65,1
+Standard query  AAAA cdn.jsdelivr.net,1
+Standard query  A cdn.jsdelivr.net,1
+Standard query  AAAA www.googletagmanager.com,1
+Standard query  A www.googletagmanager.com,1
+Standard query  AAAA www.statcounter.com,1
+Standard query  A www.statcounter.com,1
+Standard query response  AAAA gallery.123telugu.com CNAME d3vglg9kwl581z.cloudfront.net AAAA 2600:9000:2084:6e00:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:4800:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:9000:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:4e00:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:8800:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:3400:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:a600:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:5800:18:fcfb:41c0:93a1,1
+Standard query response  A gallery.123telugu.com CNAME d3vglg9kwl581z.cloudfront.net A 13.32.73.79 A 13.32.73.42 A 13.32.73.69 A 13.32.73.28,1
+Standard query response  AAAA cdn.123telugu.com CNAME d3vglg9kwl581z.cloudfront.net AAAA 2600:9000:2084:a600:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:5800:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:6e00:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:4800:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:9000:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:4e00:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:8800:18:fcfb:41c0:93a1 AAAA 2600:9000:2084:3400:18:fcfb:41c0:93a1,1
+Standard query response  A cdn.123telugu.com CNAME d3vglg9kwl581z.cloudfront.net A 13.32.73.42 A 13.32.73.69 A 13.32.73.28 A 13.32.73.79,1
+Standard query response  AAAA www.googleadservices.com CNAME pagead.l.doubleclick.net SOA ns1.google.com,1
+Standard query response  A www.googleadservices.com CNAME pagead.l.doubleclick.net A 142.250.66.162,1
+Standard query  AAAA www.googleadservices.com,1
+Standard query  A www.googleadservices.com,1
+Standard query response  AAAA www.googletagservices.com CNAME pagead46.l.doubleclick.net AAAA 2404:6800:4006:804::2002,1
+Standard query  AAAA partner.googleadservices.com,1
+Standard query  A partner.googleadservices.com,1
+Standard query  AAAA connect.facebook.net,1
+Standard query  A connect.facebook.net,1
+Standard query  AAAA googleads.g.doubleclick.net,1
+Standard query  A googleads.g.doubleclick.net,1
+Standard query response  AAAA adservice.google.com CNAME pagead46.l.doubleclick.net AAAA 2404:6800:4006:810::2002,1
+Standard query response  AAAA adservice.google.com.au CNAME pagead46.l.doubleclick.net AAAA 2404:6800:4006:804::2002,1
+Standard query response  A adservice.google.com.au CNAME pagead46.l.doubleclick.net A 172.217.167.66,1
+Standard query  AAAA adservice.google.com.au,1
+Standard query  A adservice.google.com.au,1
+Standard query response  AAAA cdn.jsdelivr.net CNAME cdn.jsdelivr.net.cdn.cloudflare.net AAAA 2606:4700::6810:5614 AAAA 2606:4700::6810:5914 AAAA 2606:4700::6810:5714 AAAA 2606:4700::6810:5814 AAAA 2606:4700::6810:5514,1
+Standard query response  A cdn.jsdelivr.net CNAME cdn.jsdelivr.net.cdn.cloudflare.net A 104.16.85.20 A 104.16.87.20 A 104.16.88.20 A 104.16.86.20 A 104.16.89.20,1
+Standard query response  AAAA www.googletagmanager.com CNAME www-googletagmanager.l.google.com AAAA 2404:6800:4006:80b::2008,1
+Standard query response  A www.googletagmanager.com CNAME www-googletagmanager.l.google.com A 216.58.199.40,1
+Standard query response  AAAA www.statcounter.com SOA may.ns.cloudflare.com,1
+Standard query  AAAA c.statcounter.com,1
+Standard query  A c.statcounter.com,1
+Standard query response  AAAA d31qbv1cthcecs.cloudfront.net SOA ns-162.awsdns-20.com,1
+Standard query response  A d31qbv1cthcecs.cloudfront.net A 13.32.73.104 A 13.32.73.93 A 13.32.73.117 A 13.32.73.71,1
+Standard query  AAAA d31qbv1cthcecs.cloudfront.net,1
+Standard query  A d31qbv1cthcecs.cloudfront.net,1
+Standard query response  A securepubads.g.doubleclick.net CNAME partnerad.l.doubleclick.net A 172.217.25.34,1
+Standard query response  AAAA securepubads.g.doubleclick.net CNAME partnerad.l.doubleclick.net SOA ns1.google.com,1
+Standard query  AAAA securepubads.g.doubleclick.net,1
+Standard query  A securepubads.g.doubleclick.net,1
+Standard query response  AAAA partner.googleadservices.com CNAME partnerad.l.doubleclick.net SOA ns1.google.com,1
+Standard query response  A partner.googleadservices.com CNAME partnerad.l.doubleclick.net A 172.217.25.162,1
+Standard query response  AAAA connect.facebook.net CNAME scontent.xx.fbcdn.net AAAA 2a03:2880:f019:116:face:b00c:0:3,1
+Standard query response  A connect.facebook.net CNAME scontent.xx.fbcdn.net A 157.240.8.23,1
+Standard query response  AAAA googleads.g.doubleclick.net CNAME pagead46.l.doubleclick.net AAAA 2404:6800:4006:810::2002,1
+Standard query response  A googleads.g.doubleclick.net CNAME pagead46.l.doubleclick.net A 172.217.167.66,1
+Standard query  AAAA fw.adsafeprotected.com,1
+Standard query  A fw.adsafeprotected.com,1
+Standard query response  AAAA tpc.googlesyndication.com AAAA 2404:6800:4006:80e::2001,1
+Standard query response  A tpc.googlesyndication.com A 142.250.66.161,1
+Standard query  AAAA tpc.googlesyndication.com,1
+Standard query  A tpc.googlesyndication.com,1
+Standard query response  AAAA www.google-analytics.com CNAME www-google-analytics.l.google.com AAAA 2404:6800:4006:80e::200e,1
+Standard query response  A www.google-analytics.com CNAME www-google-analytics.l.google.com A 142.250.66.174,1
+Standard query  AAAA www.google-analytics.com,1
+Standard query  A www.google-analytics.com,1
+Standard query response  AAAA certify.alexametrics.com SOA ns-1591.awsdns-06.co.uk,1
+Standard query response  A certify.alexametrics.com A 13.32.73.98 A 13.32.73.109 A 13.32.73.61 A 13.32.73.112,1
+Standard query  AAAA certify.alexametrics.com,1
+Standard query  A certify.alexametrics.com,1
+Standard query response  AAAA c.statcounter.com SOA may.ns.cloudflare.com,1
+Standard query response  A c.statcounter.com A 104.22.53.65 A 104.22.52.65,1
+Standard query response  AAAA ad.atdmt.com CNAME geo.atlassbx.com CNAME atlas.c10r.facebook.com AAAA 2a03:2880:f019:106:face:b00c:0:8c,1
+Standard query response  A ad.atdmt.com CNAME geo.atlassbx.com CNAME atlas.c10r.facebook.com A 157.240.8.7,1
+Standard query  AAAA googleads4.g.doubleclick.net,1
+Standard query  A googleads4.g.doubleclick.net,1
+Standard query response  AAAA s0.2mdn.net CNAME s0-2mdn-net.l.google.com AAAA 2404:6800:4006:810::2006,1
+Standard query response  A s0.2mdn.net CNAME s0-2mdn-net.l.google.com A 142.250.66.230,1
+Standard query  AAAA ad.atdmt.com,1
+Standard query  A ad.atdmt.com,1
+Standard query response  AAAA unibots.warw.in CNAME api-server-927803428.ap-south-1.elb.amazonaws.com SOA ns-329.awsdns-41.com,1
+Standard query response  A unibots.warw.in CNAME api-server-927803428.ap-south-1.elb.amazonaws.com A 3.7.131.42 A 3.6.217.211,1
+Standard query  AAAA s0.2mdn.net,1
+Standard query  A s0.2mdn.net,1
+Standard query  AAAA unibots.warw.in,1
+Standard query  A unibots.warw.in,1
+Standard query response  AAAA fw.adsafeprotected.com CNAME aufw.adsafeprotected.com CNAME firewall-external-760883286.ap-southeast-2.elb.amazonaws.com SOA ns-99.awsdns-12.com,1
+Standard query response  A fw.adsafeprotected.com CNAME aufw.adsafeprotected.com CNAME firewall-external-760883286.ap-southeast-2.elb.amazonaws.com A 13.238.187.36 A 52.63.199.241 A 3.25.28.157,1
+Standard query response  A ap.lijit.com CNAME vap.lijit.com A 209.191.163.210 A 209.191.163.209,1
+Standard query  AAAA yieldbird-d.openx.net,1
+Standard query  A yieldbird-d.openx.net,1
+Standard query response  AAAA bidder.criteo.com CNAME bidder.criteo.com.cdn.cloudflare.net SOA ns1.cloudflare.net,1
+Standard query response  A bidder.criteo.com CNAME bidder.criteo.com.cdn.cloudflare.net A 104.18.7.124 A 104.18.6.124,1
+Standard query response  AAAA ads.us.e-planning.net SOA ns-863.awsdns-43.net,1
+Standard query response  A ads.us.e-planning.net A 107.160.33.186,1
+Standard query  AAAA ap.lijit.com,1
+Standard query  A ap.lijit.com,1
+Standard query  AAAA bidder.criteo.com,1
+Standard query  A bidder.criteo.com,1
+Standard query  AAAA ads.us.e-planning.net,1
+Standard query  A ads.us.e-planning.net,1
+Standard query response  A ib.adnxs.com CNAME g.geogslb.com CNAME ib.sin1.geoadnxs.com A 103.43.90.20 A 103.43.90.21 A 103.43.90.179 A 103.43.90.54 A 103.43.90.19 A 103.43.90.53 A 103.43.90.180 A 103.43.90.181,1
+Standard query response  AAAA googleads4.g.doubleclick.net CNAME pagead.l.doubleclick.net SOA ns1.google.com,1
+Standard query response  A googleads4.g.doubleclick.net CNAME pagead.l.doubleclick.net A 172.217.25.162,1
+Standard query response  AAAA fastlane.rubiconproject.com CNAME optimized-by.rubiconproject.net.akadns.net CNAME perf-optimized-by.rubiconproject.net.akadns.net SOA internal.akadns.net,1
+Standard query response  A fastlane.rubiconproject.com CNAME optimized-by.rubiconproject.net.akadns.net CNAME perf-optimized-by.rubiconproject.net.akadns.net A 69.173.159.49 A 69.173.159.50 A 69.173.159.63 A 69.173.159.48,1
+Standard query  AAAA hb.emxdgt.com,1
+Standard query  A hb.emxdgt.com,1
+Standard query response  A ib.adnxs.com CNAME g.geogslb.com CNAME ib.sin1.geoadnxs.com A 103.43.90.181 A 103.43.90.180 A 103.43.90.53 A 103.43.90.19 A 103.43.90.54 A 103.43.90.179 A 103.43.90.21 A 103.43.90.20,1
+Standard query response  AAAA ads.servenobid.com,1
+Standard query response  A ads.servenobid.com A 54.213.87.45 A 100.20.136.126,1
+Standard query response  AAAA ssc.33across.com CNAME chi.ssc.33across.com SOA ns1.p23.dynect.net,1
+Standard query response  A ssc.33across.com CNAME chi.ssc.33across.com A 67.202.110.24,1
+Standard query  AAAA fastlane.rubiconproject.com,1
+Standard query  A fastlane.rubiconproject.com,1
+Standard query response  A yieldbird-d.openx.net A 35.244.159.8,1
+Standard query response  AAAA ads.servenobid.com SOA ns-396.awsdns-49.com,1
+Standard query response  A ads.servenobid.com A 100.20.136.126 A 54.213.87.45,1
+Standard query  AAAA ssc.33across.com,1
+Standard query  A ssc.33across.com,1
+Standard query response  AAAA yieldbird-d.openx.net SOA dns1.p04.nsone.net,1
+"Echo (ping) reply    id=, /10241,",1
+"Echo (ping) reply    id=, /9985,",1
+"Echo (ping) reply    id=, /10241,  (request in 8361)",1
+"Echo (ping) reply    id=, /9985,  (request in 8360)",1
+[] [TCP ACKed unseen segment]  [ACK],1
+"Echo (ping) request  id=, /10241,  (reply in 8367)",1
+"Echo (ping) request  id=, /9985,  (reply in 8366)",1
+"[TCP Previous segment not captured]  [FIN, PSH, URG]",1
+[TCP ACKed unseen segment] [TCP Previous segment not captured]  [ACK],1
+[TCP Port numbers reused]  [SYN],1
+"Echo (ping) request  id=, /10241,  (no response found!)",1
+"Echo (ping) request  id=, /9985,  (no response found!)",1
+Standard query response  AAAA ap.lijit.com CNAME vap.lijit.com SOA ns1.p15.dynect.net,1
+Standard query response  AAAA hb.emxdgt.com SOA ns-1396.awsdns-46.org,1
+Standard query response  A hb.emxdgt.com A 52.9.210.145 A 54.183.163.145 A 54.67.1.64 A 54.67.120.222 A 54.219.127.22 A 54.219.109.53,1
+Standard query  AAAA status.geotrust.com,1
+Standard query  A status.geotrust.com,1
+Standard query  AAAA static.adsafeprotected.com,1
+Standard query  A static.adsafeprotected.com,1
+Standard query response  AAAA ocsp.sectigo.com AAAA 2001:4de0:ac19::1:b:1b AAAA 2001:4de0:ac19::1:b:2a AAAA 2001:4de0:ac19::1:b:3b AAAA 2001:4de0:ac19::1:b:1a AAAA 2001:4de0:ac19::1:b:3a AAAA 2001:4de0:ac19::1:b:2b,1
+Standard query response  A ocsp.sectigo.com A 151.139.128.14,1
+Standard query  AAAA ocsp.sectigo.com,1
+Standard query  A ocsp.sectigo.com,1
+Standard query response  AAAA ocsp.int-x3.letsencrypt.org CNAME ocsp.int-x3.letsencrypt.org.edgesuite.net CNAME a771.dscq.akamai.net AAAA 2600:1415:8800::1728:6549 AAAA 2600:1415:8800::1728:6538,1
+Standard query response  A ocsp.int-x3.letsencrypt.org CNAME ocsp.int-x3.letsencrypt.org.edgesuite.net CNAME a771.dscq.akamai.net A 23.40.101.73 A 23.40.101.56,1
+Standard query  AAAA ocsp.int-x3.letsencrypt.org,1
+Standard query  A ocsp.int-x3.letsencrypt.org,1
+Standard query response  AAAA sc.iasds01.com CNAME ausc.iasds01.com CNAME firewall-external-760883286.ap-southeast-2.elb.amazonaws.com SOA ns-99.awsdns-12.com,1
+Standard query response  A sc.iasds01.com CNAME ausc.iasds01.com CNAME firewall-external-760883286.ap-southeast-2.elb.amazonaws.com A 13.238.187.36 A 52.63.199.241 A 3.25.28.157,1
+Standard query  AAAA sc.iasds01.com,1
+Standard query  A sc.iasds01.com,1
+"Echo (ping) request  id=, /10241,  (reply in 8346)",1
+Standard query response  AAAA static.criteo.net CNAME static.hk5.vip.prod.criteo.net AAAA 2406:2600:1::4,1
+Standard query  AAAA cdn.ampproject.org,1
+Standard query  A cdn.ampproject.org,1
+Standard query response  AAAA bid.g.doubleclick.net CNAME ads-bid.l.doubleclick.net SOA ns1.google.com,1
+Standard query response  A bid.g.doubleclick.net CNAME ads-bid.l.doubleclick.net A 172.217.194.157 A 172.217.194.156 A 172.217.194.155 A 172.217.194.154,1
+Standard query  AAAA bid.g.doubleclick.net,1
+Standard query  A bid.g.doubleclick.net,1
+Standard query response  AAAA stats.g.doubleclick.net CNAME stats.l.doubleclick.net AAAA 2404:6800:4003:c03::9a,1
+Standard query response  A stats.g.doubleclick.net CNAME stats.l.doubleclick.net A 74.125.24.155 A 74.125.24.156 A 74.125.24.154 A 74.125.24.157,1
+Standard query  AAAA stats.g.doubleclick.net,1
+Standard query  A stats.g.doubleclick.net,1
+Standard query response  AAAA ocsp.godaddy.com CNAME ocsp.godaddy.com.akadns.net SOA internal.akadns.net,1
+Standard query response  A ocsp.godaddy.com CNAME ocsp.godaddy.com.akadns.net A 192.124.249.23 A 192.124.249.24 A 192.124.249.22 A 192.124.249.41 A 192.124.249.36,1
+Standard query  AAAA ocsp.godaddy.com,1
+Standard query  A ocsp.godaddy.com,1
+Standard query response  AAAA kali.training SOA ns1.gandi.net,1
+Standard query response  A static.criteo.net CNAME static.hk5.vip.prod.criteo.net A 182.161.72.131 A 182.161.72.140,1
+Standard query  AAAA static.criteo.net,1
+Standard query  A static.criteo.net,1
+Standard query response  AAAA accounts.google.com AAAA 2404:6800:4006:804::200d,1
+Standard query response  A dsum-sec.casalemedia.com CNAME dsum-sec.casalemedia.com.edgekey.net CNAME e8037.g.akamaiedge.net A 96.7.134.29,1
+Standard query response  AAAA dsum-sec.casalemedia.com CNAME dsum-sec.casalemedia.com.edgekey.net CNAME e8037.g.akamaiedge.net SOA n0g.akamaiedge.net,1
+Standard query response  A cm.g.doubleclick.net CNAME pagead.l.doubleclick.net A 172.217.25.162,1
+Standard query response  AAAA cm.g.doubleclick.net CNAME pagead.l.doubleclick.net SOA ns1.google.com,1
+Standard query  AAAA dsum-sec.casalemedia.com,1
+Standard query  A dsum-sec.casalemedia.com,1
+Standard query  AAAA cm.g.doubleclick.net,1
+Standard query  A cm.g.doubleclick.net,1
+Standard query response  AAAA cdn.ampproject.org CNAME cdn-content.ampproject.org AAAA 2404:6800:4006:806::2001,1
+Standard query response  A cdn.ampproject.org CNAME cdn-content.ampproject.org A 142.250.66.193,1
+"Echo (ping) reply    id=, /10241,  (request in 8344)",1
