@@ -1,0 +1,103 @@
+updated_info,count
+"Echo (ping) request  id=, /59262,  (no response found!)",77715
+[SYN],8577
+"[RST, ACK]",6429
+[ACK],5398
+Application Data,4029
+[ACK]       [TCP segment of a reassembled PDU],1131
+,1021
+Application Data [TCP segment of a reassembled PDU],748
+192.168.43.1 is at 00:c0:ca:97:cf:63 (duplicate use of 192.168.43.1 detected!),727
+"[PSH, ACK]       [TCP segment of a reassembled PDU]",334
+[TCP Retransmission]  [SYN],330
+"[FIN, ACK]",296
+"[TCP Retransmission]  [PSH, ACK]",292
+"Application Data, Application Data",249
+[]  [ACK],204
+"[SYN, ACK]",192
+Redirect             (Redirect for host),178
+192.168.43.1 is at 00:c0:ca:97:cf:63,171
+192.168.43.200 is at 00:c0:ca:97:cf:63,171
+Client Hello,151
+192.168.43.1 is at 6e:c7:ec:3c:f2:ba,141
+Encrypted Alert,139
+Server Hello,135
+"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message",135
+"New Session Ticket, Change Cipher Spec, Encrypted Handshake Message",107
+"Certificate, Server Key Exchange, Server Hello Done",107
+192.168.43.200 is at a0:20:a6:22:2d:c9,99
+[RST],96
+[TCP Keep-Alive ACK]  [ACK],85
+[TCP Keep-Alive]  [ACK],85
+Request,63
+Response,63
+"Application Data, Application Data, Application Data",35
+Encrypted Handshake Message,31
+192.168.43.186 is at 00:c0:ca:97:cf:63,30
+Change Cipher Spec,28
+Client Key Exchange,27
+"New Session Ticket, Change Cipher Spec, Encrypted Handshake Message, Application Data",23
+"Change Cipher Spec, Encrypted Handshake Message",18
+"Server Hello, Change Cipher Spec, Encrypted Handshake Message",13
+"[TCP Retransmission]  [FIN, ACK]",11
+"Certificate, Certificate Status, Server Key Exchange, Server Hello Done",9
+Certificate [TCP segment of a reassembled PDU],9
+"Server Key Exchange, Server Hello Done",9
+DHCP Request  - Transaction ID,8
+[TCP Window Update]  [ACK],6
+Server Hello Done,6
+HTTP/1.1 200 OK  (text/plain),6
+GET /success.txt HTTP/1.1 ,6
+"Certificate, Server Key Exchange",6
+"Application Data, Encrypted Alert",5
+"Application Data, Application Data, Application Data, Application Data",5
+DHCP ACK      - Transaction ID,5
+"Certificate Status, Server Key Exchange, Server Hello Done",4
+"[TCP Retransmission]  [FIN, PSH, ACK]",4
+Destination unreachable (Port unreachable),4
+"Certificate, Certificate Status",4
+[]  [<None>],3
+"[TCP Retransmission]  [FIN, SYN, PSH, URG]",3
+Gratuitous ARP for 192.168.43.186 (Request),3
+"[TCP Retransmission]  [FIN, PSH, URG]",2
+"[TCP ACKed unseen segment]  [RST, ACK]",2
+"[TCP Out-Of-Order]  [FIN, ACK]",2
+"[FIN, PSH, URG]",2
+"[TCP Retransmission]  [SYN, ACK]",1
+"Application Data, Application Data, Application Data, Application Data, Application Data, Application Data",1
+[]  [ACK]       SLE=5541 SRE=5542,1
+GET / HTTP/1.1 ,1
+HTTP/1.1 302 Found  (text/html),1
+"Application Data, Application Data, Application Data, Application Data, Application Data",1
+[TCP Port numbers reused]  [SYN],1
+"U, func=Unknown; DSAP ISO Network Layer (OSLAN 1) Individual, SSAP  Response",1
+"Echo (ping) request  id=, /10241,  (reply in 12630)",1
+"[TCP Previous segment not captured]  [FIN, PSH, URG]",1
+"Echo (ping) request  id=, /9985,  (reply in 8366)",1
+"Echo (ping) request  id=, /10241,  (reply in 8367)",1
+"Echo (ping) request  id=, /10241,  (no response found!)",1
+[] [TCP ACKed unseen segment]  [ACK],1
+"Echo (ping) reply    id=, /9985,  (request in 8360)",1
+"Echo (ping) reply    id=, /10241,  (request in 8361)",1
+"Echo (ping) reply    id=, /9985,",1
+"Echo (ping) reply    id=, /10241,",1
+"Echo (ping) request  id=, /9985,  (reply in 8379)",1
+"Echo (ping) reply    id=, /9985,  (request in 8378)",1
+"Echo (ping) request  id=, /9985,  (no response found!)",1
+"Echo (ping) request  id=, /9985,  (reply in 12629)",1
+"[SYN, ECN, CWR, Reserved]",1
+[TCP ACKed unseen segment] [TCP Previous segment not captured]  [ACK],1
+[<None>],1
+"[FIN, SYN, PSH, URG]",1
+"Echo (ping) reply    id=, /9985,  (request in 12620)",1
+"Echo (ping) reply    id=, /10241,  (request in 12621)",1
+"[SYN, ACK, ECN]",1
+"Echo (ping) request  id=, /9985,  (reply in 12640)",1
+"Echo (ping) reply    id=, /9985,  (request in 12638)",1
+"Echo (ping) request  id=, /59262,  (reply in 12935)",1
+"Echo (ping) reply    id=, /10241,  (request in 8344)",1
+"Echo (ping) reply    id=, /59262,  (request in 12932)",1
+"Echo (ping) reply    id=, /59262,",1
+"Echo (ping) request  id=, /10241,  (reply in 8346)",1
+"Echo (ping) reply    id=, /9985,  (request in 8342)",1
+"Echo (ping) request  id=, /9985,  (reply in 8343)",1
