@@ -3,14 +3,22 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, classification_report, roc_curve, auc
+from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import classification_report
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import roc_curve
+from sklearn.model_selection import cross_val_score
+from sklearn.metrics import average_precision_score
+from sklearn.metrics import precision_recall_curve, recall_score
+
 
 # Define your trained models (rf, adab, gbm, model)
-estimators = [rf, adab, gbm, model, GNB]
-classifiers = ['RandomForestClassifier', 'AdaBoostClassifier', 'GradientBoostingClassifier', 'XGBoostClassifier','Gaussian Naive Bayes Classifier']
+#estimators = [rf, adab, gbm, model, GNB]
+# classifiers = ['RandomForestClassifier', 'AdaBoostClassifier', 'GradientBoostingClassifier', 'XGBoostClassifier','Gaussian Naive Bayes Classifier']
 
 # Custom labels for the confusion matrix and classification report
-labels = ['No Out of Stock', 'Out of Stock']  # Assuming binary classification with 0 and 1
-def evaluat_models(estimators, classifiers, labels, X_test, y_test):
+# labels = ['No Out of Stock', 'Out of Stock']  # Assuming binary classification with 0 and 1
+def evaluate_models(estimators, classifiers, labels, X_test, y_test):
     # Initialize an empty list to store the results
     metrics_list = []
 
@@ -179,6 +187,66 @@ def evaluat_models(estimators, classifiers, labels, X_test, y_test):
     # Show the plot
     plt.tight_layout()
     plt.show()
+
+
+
+
+
+def evaluate_model(model,X,y_true):
+
+  """
+  This function takes trained model , X(input) , y_true(true label) as input and 
+  evaluates model on different metrics
+  """
+  th = [0,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5,0.55,0.6,0.65,0.7,0.75,0.8,0.85,0.9,0.95,1]
+  pred = model.predict_proba(X)[:,1]
+  scores = []
+  tpr = []
+  fpr = []
+
+  for i in th:
+    pred_labels =[]
+    for j in pred:
+      if j>=i:
+        pred_labels.append(1)
+      else:
+        pred_labels.append(0)
+    scores.append([recall_score(y_true,pred_labels,pos_label=1),precision_score(y_true,pred_labels,pos_label=1)])
+
+    pred_labels = np.array(pred_labels)
+
+    fp = np.sum((pred_labels == 1) & (y_true == 0))
+    tp = np.sum((pred_labels == 1) & (y_true == 1))
+    fn = np.sum((pred_labels == 0) & (y_true == 1))
+    tn = np.sum((pred_labels == 0) & (y_true == 0))
+    
+    fpr.append(fp / (fp + tn))
+    tpr.append(tp / (tp + fn))
+  f1score = f1_score(y_true, model.predict(X),average = None)
+  print("The F1 scores of each class and Macro F1 score are : " , f1score[0] ,f1score[1] , (f1score[0]+f1score[1])/2)
+
+  xx = [X[0] for X in scores]
+  yy = [Y[1] for Y in scores]
+  fig = plt.figure(figsize=(6,8))
+
+  ax1 = fig.add_subplot(311)
+  ax1.plot(xx,yy,label = 'AUC PR curve'+str(np.round(auc(xx,yy),3)))
+
+  ax1.set_title("Precision - Recall curve")
+  ax1.set_xlabel("Recall")
+  ax1.set_ylabel("Precision")
+  ax1.legend()
+
+  plt.subplots_adjust(left=None, bottom=None, right=None, top=None, wspace=0.2, hspace=0.9)
+
+  ax2 = fig.add_subplot(312)
+  ax2.plot(fpr,tpr,label = "Model ROC AUC on test data : "+str(np.round(auc(fpr,tpr),3)))
+  ax2.plot([0, 1], ls="--",label='No Skill')
+  ax2.set_title("ROC-AUC curve")
+  ax2.set_xlabel("FPR")
+  ax2.set_ylabel("TPR")
+  ax2.legend()
+  plt.subplots_adjust(left=None, bottom=None, right=None, top=None, wspace=0.2, hspace=0.9)
 
 
 
